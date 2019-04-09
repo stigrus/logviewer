@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Installer>
+    <Name>NOVOS LogViewer</Name>
+    <Version>1.0.0</Version>
+    <Title>NOVOS LogViewer Installer</Title>
+    <Publisher>National Oilwell Varco</Publisher>
+    <StartMenuDir>NOVOS</StartMenuDir>
+    <TargetDir>@HomeDir@/InstallationDirectory</TargetDir>
+</Installer>

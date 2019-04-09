@@ -1,0 +1,10 @@
+It is understood and mutually agreed by the parties that all provisions
+of the General Terms and Conditions, NOVOS(TM) Operating System and
+Applications in effect at the Effective Date (hereinafter the "NOVOS
+Terms and Conditions") are hereby incorporated in this Agreement by
+reference in their entirety and Developer hereby agrees to be bound
+thereby unless expressly stated otherwise herein. By acceptance of this
+Agreement, Developer hereby acknowledges having access to and/or receipt
+of the NOVOS Terms and Conditions. Capitalized terms used in this
+Agreement shall have the same meaning and construction as set forth in
+the NOVOS Terms and Conditions unless expressly stated otherwise herein.

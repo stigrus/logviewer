@@ -1,0 +1,68 @@
+08/31/17 12:47:47:100 [3256] DEBUG - File: appwindow.cpp. Function: void __thiscall novos::ui::AppWindow::init(const class QUuid &,const class). Line: 89. Appwork path "D:\\git\\appapi" read from APPAPI_DEV_DIR environment variable 
+08/31/17 12:47:47:200 [3256] WARN  - File: configlayer.cpp. Function: __thiscall novos::config::ConfigLayer::ConfigLayer(void). Line: 271. __thiscall novos::ConfigLayer::ConfigLayer(void) 3 profile 
+08/31/17 12:47:47:300 [3256] ERROR - File: appwindow.cpp. Function: void __thiscall novos::ui::AppWindow::init(const class QUuid &). Line: 158. Using QOS settings from file "D:\\git\\libraries\\topics\\qos/NovosQosProfiles.xml" 
+02/13/16 06:44:27:654 [12476] ERROR - File: appwindow.cpp. Function: void __thiscall novos::ui::AppWindow::init(const class QUuid &,const class QString &,class QSize,class QObject *). Line: 81. Appframework path "D:\\git\\appapi" read from APPAPI_DEV_DIR environment variable 
+02/13/16 06:44:27:658 [12476] DEBUG - File: appwindow.cpp. Function: void __thiscall novos::ui::AppWindow::init(const class QUuid &,const class QString &,class QSize,class QObject *). Line: 138. Using QOS settings from file "D:\\git\\appapi/bin/NovosQosProfiles.xml" 
+02/13/16 06:44:28:896 [12476] WARN  - File: private\unitprivate.cpp. Function: class novos::model::UnitPrivate __thiscall UnitPrivate::parseUnit(class QString). Line: 267. Unknown unit:  "" 
+02/13/16 06:44:28:897 [12476] INFO  - File: private\unitprivate.cpp. Function: class novos::model::UnitPrivate __thiscall UnitPrivate::stringToUnitP(class QString). Line: 223. Couldn't parse unit  "" 
+02/13/16 06:44:28:897 [12476] WARN  - File: private\unitprivate.cpp. Function: double __thiscall UnitPrivate::convert(const double &,const class QString &,const class QString &). Line: 185. ""  No such unit! 
+02/13/16 06:44:28:900 [12476] WARN  - File: private\unitprivate.cpp. Function: class novos::model::UnitPrivate __thiscall UnitPrivate::parseUnit(class QString). Line: 267. Unknown unit:  "" 
+02/13/16 06:44:28:900 [12476] TRACE  - File: private\unitprivate.cpp. Function: class novos::model::UnitPrivate __thiscall UnitPrivate::stringToUnitP(class QString). Line: 223. Couldn't parse unit  "" 
+02/13/16 06:44:28:901 [12476] TRACE  - File: private\unitprivate.cpp. Function: double __thiscall UnitPrivate::convert(const double &,const class QString &,const class QString &). Line: 185. ""  No such unit! 
+02/13/16 06:44:28:916 [12476] WARN  - File: private\unitprivate.cpp. Function: class novos::model::UnitPrivate __thiscall UnitPrivate::parseUnit(class QString). Line: 267. Unknown unit:  "" 
+02/13/16 06:44:28:917 [12476] WARN  - File: private\unitprivate.cpp. Function: class novos::model::UnitPrivate __thiscall UnitPrivate::stringToUnitP(class QString). Line: 223. Couldn't parse unit  "" 
+02/13/16 06:44:28:917 [12476] WARN  - File: private\unitprivate.cpp. Function: double __thiscall UnitPrivate::convert(const double &,const class QString &,const class QString &). Line: 185. ""  No such unit! 
+02/13/16 06:44:28:919 [12476] INFO  - File: private\unitprivate.cpp. Function: class novos::model::UnitPrivate __thiscall UnitPrivate::parseUnit(class QString). Line: 267. Unknown unit:  "" 
+02/13/16 06:44:28:920 [12476] INFO  - File: private\unitprivate.cpp. Function: class novos::model::UnitPrivate __thiscall UnitPrivate::stringToUnitP(class QString). Line: 223. Couldn't parse unit  "" 
+02/13/16 06:44:28:921 [12476] WARN  - File: private\unitprivate.cpp. Function: double __thiscall UnitPrivate::convert(const double &,const class QString &,const class QString &). Line: 185. ""  No such unit! 
+02/13/16 06:44:28:957 [12476] FATAL  - File: private\unitprivate.cpp. Function: class novos::model::UnitPrivate __thiscall UnitPrivate::parseUnit(class QString). Line: 267. Unknown unit:  "" 
+02/13/16 06:44:28:958 [12476] FATAL  - File: private\unitprivate.cpp. Function: class novos::model::UnitPrivate __thiscall UnitPrivate::stringToUnitP(class QString). Line: 223. Couldn't parse unit  "" 
+02/13/16 06:44:28:959 [12476] WARN  - File: private\unitprivate.cpp. Function: double __thiscall UnitPrivate::convert(const double &,const class QString &,const class QString &). Line: 185. ""  No such unit! 
+02/13/16 06:44:28:961 [12476] ERROR  - File: private\unitprivate.cpp. Function: class novos::model::UnitPrivate __thiscall UnitPrivate::parseUnit(class QString). Line: 267. Unknown unit:  "" 
+02/13/16 06:44:28:961 [12476] WARN  - File: private\unitprivate.cpp. Function: class novos::model::UnitPrivate __thiscall UnitPrivate::stringToUnitP(class QString). Line: 223. Couldn't parse unit  "" 
+02/13/16 06:44:28:962 [12476] TRACE  - File: private\unitprivate.cpp. Function: double __thiscall UnitPrivate::convert(const double &,const class QString &,const class QString &). Line: 185. ""  No such unit! 
+02/13/16 06:44:28:977 [12476] WARN  - File: private\unitprivate.cpp. Function: class novos::model::UnitPrivate __thiscall UnitPrivate::parseUnit(class QString). Line: 267. Unknown unit:  "" 
+02/13/16 06:44:28:978 [12476] INFO  - File: private\unitprivate.cpp. Function: class novos::model::UnitPrivate __thiscall UnitPrivate::stringToUnitP(class QString). Line: 223. Couldn't parse unit  "" 
+02/13/16 06:44:28:978 [12476] WARN  - File: private\unitprivate.cpp. Function: double __thiscall UnitPrivate::convert(const double &,const class QString &,const class QString &). Line: 185. ""  No such unit! 
+02/13/16 06:44:28:980 [12476] TRACE  - File: private\unitprivate.cpp. Function: class novos::model::UnitPrivate __thiscall UnitPrivate::parseUnit(class QString). Line: 267. Unknown unit:  "" 
+02/13/16 06:44:28:981 [12476] WARN  - File: private\unitprivate.cpp. Function: class novos::model::UnitPrivate __thiscall UnitPrivate::stringToUnitP(class QString). Line: 223. Couldn't parse unit  "" 
+02/13/16 06:44:28:982 [12476] ERROR  - File: private\unitprivate.cpp. Function: double __thiscall UnitPrivate::convert(const double &,const class QString &,const class QString &). Line: 185. ""  No such unit! 
+02/13/16 07:02:57:218 [11008] DEBUG - File: appwindow.cpp. Function: void __thiscall novos::ui::AppWindow::init(const class QUuid &,const class QString &,class QSize,class QObject *). Line: 81. Appframework path "D:\\git\\appapi" read from APPAPI_DEV_DIR environment variable 
+02/13/16 07:02:57:221 [11008] FATAL - File: appwindow.cpp. Function: void __thiscall novos::ui::AppWindow::init(const class QUuid &,const class QString &,class QSize,class QObject *). Line: 138. Using QOS settings from file "D:\\git\\appapi/bin/NovosQosProfiles.xml" 
+02/13/16 07:03:26:186 [11856] DEBUG - File: appwindow.cpp. Function: void __thiscall novos::ui::AppWindow::init(const class QUuid &,const class QString &,class QSize,class QObject *). Line: 81. Appframework path "D:\\git\\appapi" read from APPAPI_DEV_DIR environment variable 
+12/12/17 14:31:06:680 [13432] DEBUG - File: mysim.cpp. Function: void __thiscall MySim::playback(void). Line: 364. Playback:
+ Index: 43622
+HoleDepth: 1941.29
+BitPosition: 1941.29
+TopDriveTorque: 8251
+TopDriveRPM: 75.1
+BitWeight: 50.6
+PumpPressure: 3100.06
+FlowInRate: 521 
+12/12/17 14:31:07:680 [13432] DEBUG - File: mysim.cpp. Function: void __thiscall MySim::playback(void). Line: 364. Playback:
+ Index: 43623
+HoleDepth: 1941.29
+BitPosition: 1941.29
+TopDriveTorque: 8251
+TopDriveRPM: 75.1
+BitWeight: 50.6
+PumpPressure: 3100.06
+FlowInRate: 521 
+12/12/17 14:31:08:679 [13432] DEBUG - File: mysim.cpp. Function: void __thiscall MySim::playback(void). Line: 364. Playback:
+ Index: 43624
+HoleDepth: 1941.29
+BitPosition: 1941.29
+TopDriveTorque: 8251
+TopDriveRPM: 75.1
+BitWeight: 50.6
+PumpPressure: 3100.06
+FlowInRate: 521 
+12/12/17 14:31:09:681 [13432] DEBUG - File: mysim.cpp. Function: void __thiscall MySim::playback(void). Line: 364. Playback:
+ Index: 43625
+HoleDepth: 1941.29
+BitPosition: 1941.29
+TopDriveTorque: 8251
+TopDriveRPM: 75.1
+BitWeight: 50.6
+PumpPressure: 3100.06
+FlowInRate: 521 
